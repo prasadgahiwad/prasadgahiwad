@@ -1,7 +1,3 @@
-<!-- Animated Developer Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-3f3f-4f8f-b3d5-39f2f72b5d85.gif" alt="Frontend Developer Banner" width="100%" />
-</p>
 
 <h1 align="center">🌐 Frontend Developer Portfolio</h1>
 

@@ -1,25 +1,32 @@
-<h1 align="center">🌐 Frontend Developer Portfolio</h1>
-
+<!-- Animated Developer Banner -->
 <p align="center">
-  <b>Hi, I'm a passionate Frontend Developer crafting elegant, high-performance web experiences with modern tools and clean design.</b>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-3f3f-4f8f-b3d5-39f2f72b5d85.gif" alt="Frontend Developer Banner" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,scss,redux,vite,figma,git,github" alt="Tech Stack" />
-</div>
+<h1 align="center">🌐 Frontend Developer Portfolio</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Prasad+Gahiwad;Frontend+Developer+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;I+build+beautiful+and+interactive+UIs+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<!-- Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,scss,redux,vite,figma,git,github,vercel" alt="Tech Stack Icons" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm Prasad Gahiwad, a frontend developer with a keen eye for design, performance, and accessibility. I love building:
+Hello! I'm **Prasad Gahiwad**, a results-driven **Frontend Developer** who turns ideas into interactive, accessible, and scalable web applications.
 
-- ✨ Pixel-perfect UI
-- 🔁 Scalable component systems
-- 📱 Mobile-first responsive layouts
-- ⚡ Lightning-fast SPA and SSR applications
+🔹 I specialize in building **modern UIs** using `React.js`, `Next.js`, and `Tailwind CSS`.  
+🔹 Passionate about crafting **responsive designs** and ensuring **performance & accessibility**.  
+🔹 I collaborate seamlessly in Agile teams using tools like `Git`, `Figma`, and `Postman`.  
+🔹 Love clean code, reusable components, and a great user experience!
 
-I'm driven by creating delightful user experiences and collaborating with creative minds.
+> 💼 Actively looking for frontend roles & freelance collaborations.
 
 ---
 
@@ -31,8 +38,8 @@ I'm driven by creating delightful user experiences and collaborating with creati
 | **Frameworks**  | React.js, Next.js, Redux Toolkit, Vite, React Query              |
 | **Styling**     | Tailwind CSS, SCSS, Styled Components, Bootstrap                 |
 | **Tools**       | Git, GitHub, Figma, Postman, VS Code                             |
-| **Testing**     | Jest, React Testing Library, Cypress                            |
-| **Deployment**  | Vercel, Netlify, GitHub Pages                                   |
+| **Testing**     | Jest, React Testing Library, Cypress                             |
+| **Deployment**  | Vercel, Netlify, GitHub Pages                                    |
 
 ---
 
@@ -75,8 +82,8 @@ I'm driven by creating delightful user experiences and collaborating with creati
 
 Feel free to reach out — I’m open to collaboration, freelance work, or just a friendly chat!
 
-- 📧 Email: gahiwadprasad9@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/prasad-gahiwad-ba3208218   
+- 📧 Email: gahiwadprasad9@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/prasad-gahiwad-ba3208218](https://linkedin.com/in/prasad-gahiwad-ba3208218)  
 - 🌍 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
 
 ---
